@@ -75,4 +75,4 @@ Feel free to explore the notebooks, and if you have any questions or suggestions
 
 **Tanisha Jain**  
 *Aspiring Data Scientist & Machine Learning Enthusiast*  
-[LinkedIn](https://www.linkedin.com/in/tanishajain) | [GitHub](https://github.com/TanishaJain)
+[LinkedIn]([https://www.linkedin.com/in/tanishajain](https://www.linkedin.com/in/jainntanisha/)) | [Email](tanishajainmail@gmail.com)
